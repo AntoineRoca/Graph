@@ -1,0 +1,5 @@
+eu/ensg/aroca/graph/NodeTest.class
+eu/ensg/aroca/graph/GraphOrientedTest.class
+eu/ensg/aroca/graph/VerticeTest.class
+eu/ensg/aroca/graph/DijkstraDataTest.class
+eu/ensg/aroca/graph/GraphTest.class

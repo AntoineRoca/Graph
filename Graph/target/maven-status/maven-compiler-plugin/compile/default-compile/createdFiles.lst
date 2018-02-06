@@ -1,0 +1,6 @@
+eu/ensg/aroca/graph/Graph.class
+eu/ensg/aroca/graph/Vertice.class
+eu/ensg/aroca/graph/GraphOriented.class
+eu/ensg/aroca/graph/DijkstraData.class
+eu/ensg/aroca/graph/GraphSuper.class
+eu/ensg/aroca/graph/Node.class
