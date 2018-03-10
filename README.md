@@ -12,4 +12,5 @@ groupID: eu.ensg.aroca
 artefactID: Graph
 version: 0.0.1-SNAPSHOT
 
+
 Don't forget to import the needed classes.
