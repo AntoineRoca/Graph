@@ -70,7 +70,7 @@ public class GraphTest {
 		graph.addVertice(bc);
 		graph.addVertice(cd);
 		graph.addVertice(be);
-		
+		assertTrue(false);
 		assertTrue(graph.connectedComponent().size()==2);
 	}
 	
